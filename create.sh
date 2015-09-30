@@ -1,7 +1,7 @@
 #!/bin/sh
 
 count=$(ls | wc -l)
-count=$((count - 5))
+count=$((count - 6))
 count=$(printf "%02d" $count)
 name="$count"_"$1"
 
