@@ -1,5 +1,6 @@
 # playground-rust
-Learning rust using [rustbyexample](http://rustbyexample.com)
+Learning rust using ~~[rustbyexample](http://rustbyexample.com)~~ [the Rust
+book](https://doc.rust-lang.org/stable/book).
 
 ## Install
 ```sh
