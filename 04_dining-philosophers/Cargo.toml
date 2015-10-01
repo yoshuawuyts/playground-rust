@@ -1,0 +1,4 @@
+[package]
+name = "04_dining-philosophers"
+version = "0.1.0"
+authors = ["Yoshua Wuyts <i@yoshuawuyts.com>"]
