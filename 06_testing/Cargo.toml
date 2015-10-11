@@ -1,0 +1,4 @@
+[package]
+name = "06_testing"
+version = "0.1.0"
+authors = ["Yoshua Wuyts <i@yoshuawuyts.com>"]
